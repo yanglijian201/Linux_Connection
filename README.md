@@ -1,4 +1,6 @@
-# . How-To connection_ubuntu
+#  dependency
+**pexpect**
+#  How-To connection_ubuntu
 ### (1) import ubuntu connection
     import connection_ubuntu
 ### (2) create ubuntu instance
