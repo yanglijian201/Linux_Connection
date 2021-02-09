@@ -77,7 +77,7 @@ send your name
 exit
 ### demo how to use above python to interactivate with above shell
 >>> import connection_ubuntu
->>> uss = connection_ubuntu.UbuntuSession('10.75.28.150')
+>>> uss = connection_ubuntu.UbuntuSession('10.10.10.1')
 ]>>> uss.interactive_cmd('./test.sh')
 >>> uss.interact_cmd_output
 './test.sh\r\nsend your name\r\n'
